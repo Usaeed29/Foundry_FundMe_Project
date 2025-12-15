@@ -14,3 +14,14 @@ The project showcases:
 2. Foundry testing & scripting
 3. Chainlink oracle integration
 4. Environment-based network configuration
+
+
+**Features**
+
+1. Fund the contract with ETH
+2. Enforces minimum contribution in USD (via Chainlink Price Feeds)
+3. Owner-only withdrawal
+4. Network-aware configuration using HelperConfig
+5. Unit & fork tests with Foundry
+6. Automated deployment scripts
+7. Makefile for common commands
